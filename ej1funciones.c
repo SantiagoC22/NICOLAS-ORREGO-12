@@ -5,12 +5,7 @@ int numeros(int a,int b){
 }
 int main(){
 	int n1,n2;
-	printf("ingrese un numero: ");
-	scanf("%d",&n1);
-	printf("ingrese otro numero: ");
-	scanf("%d",&n2);
-	
-	numeros(n1,n2);
+	UY
 	
 	
 }
